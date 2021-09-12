@@ -1,0 +1,43 @@
+Bottleneck==1.3.2
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///tmp/build/80754af9/cffi_1625814693446/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///tmp/build/80754af9/click_1621604852318/work
+cryptography @ file:///tmp/build/80754af9/cryptography_1616769182610/work
+cycler==0.10.0
+Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+fonttools==4.25.0
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1617877314848/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1624781299557/work
+joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1612282414123/work
+MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621528142364/work
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1628003481308/work
+mkl-fft==1.3.0
+mkl-random @ file:///tmp/build/80754af9/mkl_random_1626179032232/work
+mkl-service==2.4.0
+munkres==1.1.4
+numexpr @ file:///tmp/build/80754af9/numexpr_1618856527787/work
+numpy==1.21.2
+olefile==0.46
+pandas==1.3.2
+Pillow @ file:///tmp/build/80754af9/pillow_1625655818400/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1621370326158/work
+scipy @ file:///tmp/build/80754af9/scipy_1630606797510/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///tmp/build/80754af9/tornado_1606942283357/work
+typing-extensions @ file:///Users/ktietz/demo/mc3/conda-bld/typing_extensions_1629887998905/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+Werkzeug @ file:///home/ktietz/src/ci/werkzeug_1611932622770/work
+zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
